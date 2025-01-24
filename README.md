@@ -64,11 +64,6 @@ npm start
 ```
 The application will be available at `http://localhost:3000`.
 
-### API Integration
-The application interacts with a backend API for managing menu items and orders. Ensure that the backend is running and accessible.
+Note : The username is  admin and password is password.
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+ 
